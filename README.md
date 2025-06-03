@@ -37,4 +37,3 @@ It includes features like credit score, geography, gender, tenure, balance, and 
 1. Clone the repository:
    ```bash
    git clone https://github.com/mohammad2m7/pytorch-NN.git
-   cd pytorch-NN
