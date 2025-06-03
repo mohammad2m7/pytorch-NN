@@ -1,0 +1,9 @@
+```txt
+pandas
+numpy
+matplotlib
+seaborn
+torch
+scikit-learn
+imbalanced-learn
+optuna
